@@ -101,8 +101,8 @@ class NadaHaimn:
         print("Thanks for visiting my profile! Let's connect.")
 
 me = NadaHaimn()
-me.say_hi()```
-
+me.say_hi()
+```
 ---
 
 ### 📫 Let's Connect & Collaborate!
