@@ -76,10 +76,6 @@ I'm a passionate AI enthusiast on the journey to becoming a skilled AI Engineer,
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadaHaimn&theme=radical" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NadaHaimn&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
 ---
 
 ### 🌟 Current Focus
@@ -126,4 +122,4 @@ me.say_hi()
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NadaHaimn&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
-```
+---
