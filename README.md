@@ -76,5 +76,4 @@ I'm a passionate learner on the journey to becoming a skilled AI Engineer, focus
   <a href="mailto:[nadahaimn2170@gmail.com]">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <i>"The science of today is the technology of tomorrow."</i> - Edward Teller
 </p>
