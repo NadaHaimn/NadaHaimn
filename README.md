@@ -70,10 +70,10 @@ I'm a passionate learner on the journey to becoming a skilled AI Engineer, focus
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="[Your LinkedIn URL]">
+  <a href="[https://www.linkedin.com/in/nadahaimn]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[your.email@domain.com]">
+  <a href="mailto:[nadahaimn2170@gmail.com]">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
